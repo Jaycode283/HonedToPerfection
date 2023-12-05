@@ -49,15 +49,13 @@ a {
 p {
     font-size: 16px;
 }
-.digi img {border-radius: 60px;
-    height: 50%;
-    width: 100%;}
+
     
 .hero {
-    height: 50%;
+    height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("../HonedToPerfection/assets/images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -73,6 +71,7 @@ p {
 }
 
 .content {
+    justify-content: space-evenly;
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -191,13 +190,4 @@ p {
     font-size: 36px;
 }
 
-.footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
 
-.footer h2 {
-    font-size: 20px;
-}
